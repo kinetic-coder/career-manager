@@ -1,0 +1,5 @@
+.background {
+    background-image: url('cat-error.jpg') no-repeat center center fixed;
+    height: 100%;
+    background: cover;
+}

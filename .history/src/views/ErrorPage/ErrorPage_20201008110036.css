@@ -1,0 +1,17 @@
+.error-message {
+  color:white;
+}
+
+.error-message-heading {
+    color:white;
+}
+
+.error-message-section {
+    
+}
+
+html {
+    background-image: url('./cat-error.jpg');
+    min-height: 100%;
+    background-size: cover;
+}

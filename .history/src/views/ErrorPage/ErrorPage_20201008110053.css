@@ -1,0 +1,19 @@
+.error-message {
+  color:white;
+  text-align: center;
+}
+
+.error-message-heading {
+    color:white;
+    text-align: center;
+}
+
+.error-message-section {
+    text-align: center;
+}
+
+html {
+    background-image: url('./cat-error.jpg');
+    min-height: 100%;
+    background-size: cover;
+}
